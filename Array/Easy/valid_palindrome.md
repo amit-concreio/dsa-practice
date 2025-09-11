@@ -8,7 +8,7 @@ Alphanumeric characters include letters and numbers.
 Given a string `s`, return `true` if it is a palindrome, or `false` otherwise.  
 
 ---
-### ✅ Solution – Two Pointers  
+#### ✅ Solution – Two Pointers  
 ```cpp
 bool isPalindrome(string s) {
     int left = 0;
