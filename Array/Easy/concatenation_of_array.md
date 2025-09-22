@@ -25,7 +25,7 @@ public:
 };
 ```
 
-### ✅ Solution 1 – Using `Loop`  
+### ✅ Solution 2 – Using `Loop`  
 ```cpp
 class Solution {
 public:
